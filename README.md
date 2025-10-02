@@ -1,3 +1,3 @@
 PRUEBA TÉCNICA  
 
-Prueba técnica realizada para la empresa óberon, esto con el fin de consumir un API 
+Prueba técnica realizada para la empresa óberon, esto con el fin de consumir un API para mostrarlo en un frontend en le cual se mostrara una menu con los tipos de pokemon que proveen la API, ya con esta implementación se debe realizar el llamado de otra API, esto con el fin de obtener el valor del nombre del tipo y llenar una tabla con datos que provee esta API, en este caso se creo una tabla con 3 columnas que tienen en primer lugar el nombre del pokemon, de segundo lugar una imagen y por ultimo la debilidad del tipo
